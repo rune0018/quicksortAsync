@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\quicksort\bin\Debug\net5.0\quicksort.exe
+C:\Users\Acer\source\repos\quicksort\bin\Debug\net5.0\quicksort.deps.json
+C:\Users\Acer\source\repos\quicksort\bin\Debug\net5.0\quicksort.runtimeconfig.json
+C:\Users\Acer\source\repos\quicksort\bin\Debug\net5.0\quicksort.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\quicksort\bin\Debug\net5.0\quicksort.dll
+C:\Users\Acer\source\repos\quicksort\bin\Debug\net5.0\ref\quicksort.dll
+C:\Users\Acer\source\repos\quicksort\bin\Debug\net5.0\quicksort.pdb
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\quicksort.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\quicksort.AssemblyInfo.cs
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\quicksort.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\quicksort.dll
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\ref\quicksort.dll
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\quicksort.pdb
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\quicksort.genruntimeconfig.cache
+C:\Users\Acer\source\repos\quicksort\obj\Debug\net5.0\quicksort.csproj.AssemblyReference.cache
